@@ -1,2 +1,2 @@
 console.log('New');
-const bebas = 'Bebas';
+var bebas = 'Bebas';
